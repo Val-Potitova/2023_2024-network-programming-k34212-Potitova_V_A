@@ -5,4 +5,4 @@ Faculty: [FICT](https://fict.itmo.ru) \
 Course: [Network programming](https://github.com/itmo-ict-faculty/network-programming) \
 Year: 2023/2024 \
 Group: K34212 \
-Author: Potitova Valentina Alexandrovna \
+Author: Potitova Valentina Alexandrovna

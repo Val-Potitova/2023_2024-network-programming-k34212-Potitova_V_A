@@ -6,7 +6,7 @@ Group: K34212 \
 Author: Potitova Valentina Alexandrovna \
 Lab: Lab1 \
 Date of create: 03.11.2023 \
-Date of finished: 09.11.2023 \
+Date of finished: 09.11.2023
 
 # Лабораторная работа №1 "Установка CHR и Ansible, настройка VPN"
 ## Описание
