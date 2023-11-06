@@ -20,8 +20,8 @@ Date of finished: 09.11.2023
 sudo apt install python3-pip
 sudo pip3 install ansible
 ```
-На компьютере установили на VirtualBox CHR (RouterOS).
-![CHR](/../img/0.png)
+На компьютере установили на VirtualBox CHR (RouterOS). \
+![CHR](/img/0.png)
 
 
 Cоздали OpenVPN сервер для организации VPN туннеля между сервером автоматизации, где была установлена система контроля конфигураций Ansible и локальным CHR. \
