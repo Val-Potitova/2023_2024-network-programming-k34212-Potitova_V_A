@@ -15,7 +15,7 @@ Date of finished: 09.11.2023
 
 ## Ход работы
 Развернули виртуальную машину с Ubuntu 20.04 на Яндекс.Облаке. \
-Установили python3 и Ansible: \
+Установили python3 и Ansible:
 ```
 sudo apt install python3-pip
 sudo pip3 install ansible
@@ -25,7 +25,9 @@ sudo pip3 install ansible
 Cоздали OpenVPN сервер для организации VPN туннеля между сервером автоматизации, где была установлена система контроля конфигураций Ansible и локальным CHR. \
 При создании убедились в актуальности пакетов, обновили необходимые зависимости. Добавили сервер OpenVPN в список репозиториев. \
 Установили сервер доступа OpenVPN:
-```apt install openvpn-as```
+```
+apt install openvpn-as
+```
 
 Пдняли VPN туннель между VPN сервером на Ubuntu 20.04 и VPN клиентом на RouterOS (CHR).
 
