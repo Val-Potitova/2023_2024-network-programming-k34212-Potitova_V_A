@@ -20,16 +20,21 @@ Date of finished: 09.11.2023
 sudo apt install python3-pip
 sudo pip3 install ansible
 ```
-На компьютере установили на VirtualBox CHR (RouterOS). \
-![CHR](https://github.com/Val-Potitova/2023_2024-network-programming-k34212-Potitova_V_A/blob/main/lab1/img/0.png)
 
-
-Cоздали OpenVPN сервер для организации VPN туннеля между сервером автоматизации, где была установлена система контроля конфигураций Ansible и локальным CHR. \
-При создании убедились в актуальности пакетов, обновили необходимые зависимости. Добавили сервер OpenVPN в список репозиториев. \
+Cоздаём свой OpenVPN сервер.
+Убедились в актуальности пакетов, обновили необходимые зависимости. Добавили сервер OpenVPN в список репозиториев. \
 Установили сервер доступа OpenVPN:
 ```
 apt install openvpn-as
 ```
+![OpenVPN](https://github.com/Val-Potitova/2023_2024-network-programming-k34212-Potitova_V_A/blob/main/lab1/img/0.png)
+
+На VirtualBox установили CHR (RouterOS). При входе пользователь admin, пароля нет, его задали при требовании.
+![OpenVPN](https://github.com/Val-Potitova/2023_2024-network-programming-k34212-Potitova_V_A/blob/main/lab1/img/1.png)
+
+
+
+
 
 Пдняли VPN туннель между VPN сервером на Ubuntu 20.04 и VPN клиентом на RouterOS (CHR).
 
