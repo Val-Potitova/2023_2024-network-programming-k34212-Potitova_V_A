@@ -29,14 +29,22 @@ apt install openvpn-as
 ```
 ![OpenVPN](https://github.com/Val-Potitova/2023_2024-network-programming-k34212-Potitova_V_A/blob/main/lab1/img/0.png)
 
-На VirtualBox установили CHR (RouterOS). При входе пользователь admin, пароля нет, его задали при требовании.
-![OpenVPN](https://github.com/Val-Potitova/2023_2024-network-programming-k34212-Potitova_V_A/blob/main/lab1/img/1.png)
+На VirtualBox установили CHR (RouterOS). При входе пользователь admin, пароля нет, его задали при требовании. \
+![CHR](https://github.com/Val-Potitova/2023_2024-network-programming-k34212-Potitova_V_A/blob/main/lab1/img/1.png)
 
+Загрузили скачанный на сервере файл: \
+![file](https://github.com/Val-Potitova/2023_2024-network-programming-k34212-Potitova_V_A/blob/main/lab1/img/2.png)
 
+Задали настройки OpenVPN сервера: \
+![OpenVPN](https://github.com/Val-Potitova/2023_2024-network-programming-k34212-Potitova_V_A/blob/main/lab1/img/3.png)
 
+Создали OpenVPN интерфейс, чтобы поднять VPN туннель для связи с сервером:
+![OpenVPN](https://github.com/Val-Potitova/2023_2024-network-programming-k34212-Potitova_V_A/blob/main/lab1/img/4.png)
 
+Проверили соединение:
+![VPN](https://github.com/Val-Potitova/2023_2024-network-programming-k34212-Potitova_V_A/blob/main/lab1/img/5.png)
 
-Пдняли VPN туннель между VPN сервером на Ubuntu 20.04 и VPN клиентом на RouterOS (CHR).
+Таким образом, мы пдняли VPN туннель между VPN сервером на Ubuntu 20.04 и VPN клиентом на RouterOS (CHR).
 
 ## Вывод
 В ходе работы научились развертывать виртуальные машины и системы контроля конфигураций Ansible, а также организовали собственный VPN сервер.
