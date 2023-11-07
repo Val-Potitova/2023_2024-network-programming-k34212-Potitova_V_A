@@ -44,7 +44,7 @@ apt install openvpn-as
 Проверили соединение: \
 ![VPN](https://github.com/Val-Potitova/2023_2024-network-programming-k34212-Potitova_V_A/blob/main/lab1/img/5.png)
 
-Таким образом, мы пдняли VPN туннель между VPN сервером на Ubuntu 20.04 и VPN клиентом на RouterOS (CHR).
+Таким образом, мы подняли VPN туннель между VPN сервером на Ubuntu 20.04 и VPN клиентом на RouterOS (CHR).
 
 ## Вывод
 В ходе работы научились развертывать виртуальные машины и системы контроля конфигураций Ansible, а также организовали собственный VPN сервер.
