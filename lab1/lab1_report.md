@@ -41,7 +41,7 @@ apt install openvpn-as
 Создали OpenVPN интерфейс, чтобы поднять VPN туннель для связи с сервером:
 ![OpenVPN](https://github.com/Val-Potitova/2023_2024-network-programming-k34212-Potitova_V_A/blob/main/lab1/img/4.png)
 
-Проверили соединение:
+Проверили соединение: \
 ![VPN](https://github.com/Val-Potitova/2023_2024-network-programming-k34212-Potitova_V_A/blob/main/lab1/img/5.png)
 
 Таким образом, мы пдняли VPN туннель между VPN сервером на Ubuntu 20.04 и VPN клиентом на RouterOS (CHR).
