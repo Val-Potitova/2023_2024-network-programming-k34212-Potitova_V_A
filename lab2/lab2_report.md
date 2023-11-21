@@ -21,8 +21,6 @@ Date of finished: 23.11.2023
 ![Ansible](https://github.com/Val-Potitova/2023_2024-network-programming-k34212-Potitova_V_A/blob/main/lab2/img/1.png)
 
 Создали файл hosts.ini, в котором прописали настройки для первого и второго CHR.
-
-hosts.ini
 ``` ini
 [chr]
 chr1 ansible_host=172.27.224.3
@@ -39,8 +37,6 @@ ansible_ssh_pass=admin
 ![hosts.ini](https://github.com/Val-Potitova/2023_2024-network-programming-k34212-Potitova_V_A/blob/main/lab2/img/2.png)
 
 Создали файл playbook.yml для настроек конфигурации.
-
-playbook
 ``` yml
 ---
 - name:  CHR setting
