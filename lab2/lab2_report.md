@@ -87,6 +87,6 @@ NTP Client, настроенные с помощью Ansible
 ![NTP Client](https://github.com/Val-Potitova/2023_2024-network-programming-k34212-Potitova_V_A/blob/main/lab2/img/5.png)
 
 Конфигурации устройств находятся в следующих файлах: \
-[Конфигурация CHR 1](https://github.com/Val-Potitova/2023_2024-network-programming-k34212-Potitova_V_A/blob/main/lab2/chr_1) \
-[Конфигурация CHR 2](https://github.com/Val-Potitova/2023_2024-network-programming-k34212-Potitova_V_A/blob/main/lab2/chr_2)
+[Конфигурация CHR 1](https://github.com/Val-Potitova/2023_2024-network-programming-k34212-Potitova_V_A/blob/main/lab2/chr_1.txt) \
+[Конфигурация CHR 2](https://github.com/Val-Potitova/2023_2024-network-programming-k34212-Potitova_V_A/blob/main/lab2/chr_2.txt)
 ## Вывод
