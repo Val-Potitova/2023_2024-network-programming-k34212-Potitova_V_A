@@ -14,7 +14,7 @@ Date of finished: 23.11.2023
 С помощью Ansible настроить несколько сетевых устройств и собрать информацию о них. Правильно собрать файл Inventory.
 
 ## Ход работы
-Установили второй CHR на ПК. Организовали второй OVPN Client на этом CHR.
+Установили второй CHR на ПК. Организовали второй OVPN Client на этом CHR аналогично ЛР-1.
 
 Теперь необходимо установить библиотеку Ansible для работы по SSH.
 
@@ -84,9 +84,15 @@ NTP Client, настроенные с помощью Ansible
 
 Проверки связности
 
-![NTP Client](https://github.com/Val-Potitova/2023_2024-network-programming-k34212-Potitova_V_A/blob/main/lab2/img/5.png)
+![links](https://github.com/Val-Potitova/2023_2024-network-programming-k34212-Potitova_V_A/blob/main/lab2/img/5.png)
 
 Конфигурации устройств находятся в следующих файлах: \
 [Конфигурация CHR 1](https://github.com/Val-Potitova/2023_2024-network-programming-k34212-Potitova_V_A/blob/main/lab2/chr_1.txt) \
 [Конфигурация CHR 2](https://github.com/Val-Potitova/2023_2024-network-programming-k34212-Potitova_V_A/blob/main/lab2/chr_2.txt)
+
+Схема
+
+![Scheme](https://github.com/Val-Potitova/2023_2024-network-programming-k34212-Potitova_V_A/blob/main/lab2/img/scheme.png)
+
 ## Вывод
+С помощью Ansible настроили несколько сетевых устройств и собрали информацию о них. Создали файл Inventory и собрали конфигурации устройств.
