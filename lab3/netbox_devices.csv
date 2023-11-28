@@ -1,0 +1,3 @@
+Name,Status,Tenant,Site,Location,Rack,Role,Manufacturer,Type,IP Address,ID,Tenant Group,Platform,Serial number,Asset tag,Region,Site Group,Position (U),Rack face,Airflow,IPv4 Address,IPv6 Address,Cluster,Virtual chassis,VC Position,VC Priority,Comments,Contacts,Tags,Created,Last updated
+CHR1,Active,,Name,,,Router,Mikrotik,Mikrotik,,1,,,,,,,,,,,,,,,,,,,2023-11-26 13:43,2023-11-26 13:43
+CHR2,Active,,Name,,,Router,Mikrotik,Mikrotik,,2,,,,,,,,,,,,,,,,,,,2023-11-26 13:44,2023-11-26 13:44
