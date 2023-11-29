@@ -20,8 +20,7 @@ Date of finished: 07.12.2023
 
 Установили redis. Потом установили netbox из репозитория и создали пользователя
 
-![group](img/2.png)
-
+![group](img/2.png) \
 ![user](img/3.png)
 
 Установили все зависимости, командой ```python3 ../generate_secret_key.py``` сгенерировали ключ.
